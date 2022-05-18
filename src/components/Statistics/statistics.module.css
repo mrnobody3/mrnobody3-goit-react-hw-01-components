@@ -1,0 +1,12 @@
+.statistics {
+  padding: 20px 0;
+  text-align: center;
+}
+.title {
+  text-align: center;
+  margin-bottom: 10px;
+}
+.list {
+  display: flex;
+  justify-content: center;
+}

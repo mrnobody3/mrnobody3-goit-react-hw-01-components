@@ -1,0 +1,32 @@
+.profile {
+  margin: 0 auto;
+  width: 200px;
+  padding: 20px;
+  border: 1px solid red;
+  border-radius: 10px;
+  text-align: center;
+  background-color: #fff;
+}
+.avatar {
+  width: 100px;
+}
+.name {
+  font-weight: 700;
+  margin-bottom: 8px;
+  color: #5d5d5d;
+}
+.tag {
+  margin-bottom: 8px;
+}
+.location {
+  margin-bottom: 8px;
+}
+.stats {
+  display: flex;
+}
+.label {
+  font-style: italic;
+}
+.quantity {
+  font-weight: 700;
+}

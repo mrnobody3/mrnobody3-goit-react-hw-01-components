@@ -1,0 +1,27 @@
+.table,
+th,
+td {
+  border: 1px solid;
+}
+.table {
+  width: 500px;
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+thead {
+  color: white;
+  text-shadow: 1px 1px 1px black;
+}
+
+thead th {
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.1),
+    rgba(0, 0, 0, 0.5)
+  );
+  border: 3px solid purple;
+}
+td {
+  text-align: center;
+  font-weight: 700;
+}
