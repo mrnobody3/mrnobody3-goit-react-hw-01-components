@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mrnobody3-goit-react-hw-01-components/static/css/main.7acaea2f.css",
+    "main.js": "/mrnobody3-goit-react-hw-01-components/static/js/main.bc46ddd9.js",
+    "index.html": "/mrnobody3-goit-react-hw-01-components/index.html",
+    "main.7acaea2f.css.map": "/mrnobody3-goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
+    "main.bc46ddd9.js.map": "/mrnobody3-goit-react-hw-01-components/static/js/main.bc46ddd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.bc46ddd9.js"
+  ]
+}
