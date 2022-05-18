@@ -37,6 +37,10 @@ const Profile = ({username, tag, location, avatar, stats:{followers, views, like
 
 export default Profile;
 
+Profile.defaultProps = {
+  stats: {}
+}
+
 Profile.propTypes = {
   username: PropTypes.string.isRequired,
   tag: PropTypes.string.isRequired,
@@ -46,5 +50,5 @@ Profile.propTypes = {
     followers: PropTypes.number.isRequired,
     views: PropTypes.number.isRequired,
     likes: PropTypes.number.isRequired
-  }).isRequired
+  })
 }
